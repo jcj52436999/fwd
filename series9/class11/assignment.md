@@ -17,4 +17,4 @@
 
 * * *
 
-[Solution](http://jeffreyatw.github.io/fwd/series8/class11/solution/)
+[Solution](http://jeffreyatw.github.io/fwd/series9/class11/solution/)
